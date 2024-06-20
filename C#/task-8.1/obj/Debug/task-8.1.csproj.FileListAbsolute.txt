@@ -1,0 +1,7 @@
+D:\C#\task-8.1\bin\Debug\task-8.1.exe.config
+D:\C#\task-8.1\bin\Debug\task-8.1.exe
+D:\C#\task-8.1\bin\Debug\task-8.1.pdb
+D:\C#\task-8.1\obj\Debug\task-8.1.csproj.AssemblyReference.cache
+D:\C#\task-8.1\obj\Debug\task-8.1.csproj.CoreCompileInputs.cache
+D:\C#\task-8.1\obj\Debug\task-8.1.exe
+D:\C#\task-8.1\obj\Debug\task-8.1.pdb

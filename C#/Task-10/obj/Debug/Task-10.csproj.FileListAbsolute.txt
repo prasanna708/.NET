@@ -1,0 +1,7 @@
+D:\C#\Task-10\bin\Debug\Task-10.exe.config
+D:\C#\Task-10\bin\Debug\Task-10.exe
+D:\C#\Task-10\bin\Debug\Task-10.pdb
+D:\C#\Task-10\obj\Debug\Task-10.csproj.AssemblyReference.cache
+D:\C#\Task-10\obj\Debug\Task-10.csproj.CoreCompileInputs.cache
+D:\C#\Task-10\obj\Debug\Task-10.exe
+D:\C#\Task-10\obj\Debug\Task-10.pdb

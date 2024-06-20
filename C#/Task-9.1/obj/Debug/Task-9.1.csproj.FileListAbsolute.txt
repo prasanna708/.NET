@@ -1,0 +1,7 @@
+D:\C#\Task-9.1\bin\Debug\Task-9.1.exe.config
+D:\C#\Task-9.1\bin\Debug\Task-9.1.exe
+D:\C#\Task-9.1\bin\Debug\Task-9.1.pdb
+D:\C#\Task-9.1\obj\Debug\Task-9.1.csproj.AssemblyReference.cache
+D:\C#\Task-9.1\obj\Debug\Task-9.1.csproj.CoreCompileInputs.cache
+D:\C#\Task-9.1\obj\Debug\Task-9.1.exe
+D:\C#\Task-9.1\obj\Debug\Task-9.1.pdb

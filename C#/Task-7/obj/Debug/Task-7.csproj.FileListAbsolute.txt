@@ -1,0 +1,7 @@
+D:\C#\Task-7\bin\Debug\Task-7.exe.config
+D:\C#\Task-7\bin\Debug\Task-7.exe
+D:\C#\Task-7\bin\Debug\Task-7.pdb
+D:\C#\Task-7\obj\Debug\Task-7.csproj.AssemblyReference.cache
+D:\C#\Task-7\obj\Debug\Task-7.csproj.CoreCompileInputs.cache
+D:\C#\Task-7\obj\Debug\Task-7.exe
+D:\C#\Task-7\obj\Debug\Task-7.pdb
