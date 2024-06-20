@@ -1,0 +1,7 @@
+D:\.NET\C#\19junTask-1\bin\Debug\19junTask-1.exe.config
+D:\.NET\C#\19junTask-1\bin\Debug\19junTask-1.exe
+D:\.NET\C#\19junTask-1\bin\Debug\19junTask-1.pdb
+D:\.NET\C#\19junTask-1\obj\Debug\19junTask-1.csproj.AssemblyReference.cache
+D:\.NET\C#\19junTask-1\obj\Debug\19junTask-1.csproj.CoreCompileInputs.cache
+D:\.NET\C#\19junTask-1\obj\Debug\19junTask-1.exe
+D:\.NET\C#\19junTask-1\obj\Debug\19junTask-1.pdb
