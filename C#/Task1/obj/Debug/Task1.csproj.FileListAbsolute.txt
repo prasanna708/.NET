@@ -1,0 +1,14 @@
+C:\Users\Prasanna Kumar\source\repos\Task1\bin\Debug\Task1.exe.config
+C:\Users\Prasanna Kumar\source\repos\Task1\bin\Debug\Task1.exe
+C:\Users\Prasanna Kumar\source\repos\Task1\bin\Debug\Task1.pdb
+C:\Users\Prasanna Kumar\source\repos\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\Prasanna Kumar\source\repos\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Prasanna Kumar\source\repos\Task1\obj\Debug\Task1.exe
+C:\Users\Prasanna Kumar\source\repos\Task1\obj\Debug\Task1.pdb
+D:\C#\Task1\bin\Debug\Task1.exe.config
+D:\C#\Task1\bin\Debug\Task1.exe
+D:\C#\Task1\bin\Debug\Task1.pdb
+D:\C#\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\C#\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\C#\Task1\obj\Debug\Task1.exe
+D:\C#\Task1\obj\Debug\Task1.pdb
