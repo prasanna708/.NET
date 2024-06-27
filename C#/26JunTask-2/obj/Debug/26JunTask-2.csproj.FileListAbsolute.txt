@@ -1,0 +1,7 @@
+D:\.NET\C#\26JunTask-2\bin\Debug\26JunTask-2.exe.config
+D:\.NET\C#\26JunTask-2\bin\Debug\26JunTask-2.exe
+D:\.NET\C#\26JunTask-2\bin\Debug\26JunTask-2.pdb
+D:\.NET\C#\26JunTask-2\obj\Debug\26JunTask-2.csproj.AssemblyReference.cache
+D:\.NET\C#\26JunTask-2\obj\Debug\26JunTask-2.csproj.CoreCompileInputs.cache
+D:\.NET\C#\26JunTask-2\obj\Debug\26JunTask-2.exe
+D:\.NET\C#\26JunTask-2\obj\Debug\26JunTask-2.pdb
