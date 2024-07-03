@@ -22,20 +22,17 @@ namespace _26JunTask_1
                
                 Console.WriteLine("Enter roll no. of Student: ");
                 int Rno = Convert.ToInt32(Console.ReadLine());
-                sw.Write(Rno + "\t");
 
                 Console.WriteLine("Enter Name of Student: ");
                 string name = Console.ReadLine();
-                sw.Write(name + "\t");
 
                 Console.WriteLine("Enter marks of student in 3 subjects: ");
                 int M = Convert.ToInt32(Console.ReadLine());
                 int P = Convert.ToInt32(Console.ReadLine());
                 int C = Convert.ToInt32(Console.ReadLine());
-                sw.Write(M + " ");
-                sw.Write(P + " ");
-                sw.Write(C + " ");
 
+                sw.Write(Rno + "," + name + "," + M + "," + P + "," + C);
+               
                 sw.Flush();
                 sw.Close();
                 fs.Close();

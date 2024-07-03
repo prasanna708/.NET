@@ -15,24 +15,37 @@ namespace _26JunTask_2
             //Write a program to read the Student.txt and
             //display total and average from the marks.
 
+            int Rno, M, P, C, tot;
+            string name;
+            double avg;
             try
             {
                 FileStream fs = new FileStream(@"D:\files\Student.txt",FileMode.Open,FileAccess.Read);
                 StreamReader sr = new StreamReader(fs);
-                //Reading into File
-                String RNo = sr.ReadLine();
-                String name = sr.ReadLine();    
-                string M = sr.ReadLine();
-                string P = sr.ReadLine();
-                string C = sr.ReadLine();
-                
+                string data = sr.ReadLine();   
                 Console.WriteLine("Reading data from file.....\n ");
-                Console.WriteLine(RNo);
-                Console.WriteLine(name);
-                Console.WriteLine(M);
-                Console.WriteLine(P);
-                Console.WriteLine(C);
-               
+
+                string[] StuRec = data.Split(',');
+
+                //Reading Data
+                Rno = Convert.ToInt32(StuRec[0]);
+                name = StuRec[1];
+                M = Convert.ToInt32(StuRec[2]); 
+                P = Convert.ToInt32(StuRec[3]); 
+                C = Convert.ToInt32(StuRec[4]);
+
+                tot = M + P + C;    
+                avg = tot / 3;
+
+                //Displaying data
+                Console.WriteLine("Roll No: " + Rno);
+                Console.WriteLine("Name: " + name);
+                Console.WriteLine("Marks in maths: " + M);
+                Console.WriteLine("Marks in physics: " + P);
+                Console.WriteLine("Marks in chemistry: " + C);
+                Console.WriteLine("Total Marks: " + tot);
+                Console.WriteLine("Average: " + avg);
+
                 sr.Close();
                 fs.Close();
 
