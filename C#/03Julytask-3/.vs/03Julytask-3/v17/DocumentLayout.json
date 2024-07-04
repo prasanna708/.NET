@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\C#\\03Julytask-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B08DD-3A9E-48BE-9027-C78FA10515A8}|03Julytask-3.csproj|d:\\.net\\c#\\03julytask-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B08DD-3A9E-48BE-9027-C78FA10515A8}|03Julytask-3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B08DD-3A9E-48BE-9027-C78FA10515A8}|03Julytask-3.csproj|d:\\.net\\c#\\03julytask-3\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B08DD-3A9E-48BE-9027-C78FA10515A8}|03Julytask-3.csproj|solutionrelative:electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "D:\\.NET\\C#\\03Julytask-3\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "ElectricityBill.cs",
+              "ToolTip": "D:\\.NET\\C#\\03Julytask-3\\ElectricityBill.cs",
+              "RelativeToolTip": "ElectricityBill.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:17:31.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\C#\\03Julytask-3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET\\C#\\03Julytask-3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:16:59.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
