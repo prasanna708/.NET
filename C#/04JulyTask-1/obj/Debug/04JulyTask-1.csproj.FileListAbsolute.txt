@@ -1,0 +1,7 @@
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\bin\Debug\04JulyTask-1.exe.config
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\bin\Debug\04JulyTask-1.exe
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\bin\Debug\04JulyTask-1.pdb
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\obj\Debug\04JulyTask-1.csproj.AssemblyReference.cache
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\obj\Debug\04JulyTask-1.csproj.CoreCompileInputs.cache
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\obj\Debug\04JulyTask-1.exe
+C:\Users\Prasanna Kumar\source\repos\04JulyTask-1\obj\Debug\04JulyTask-1.pdb

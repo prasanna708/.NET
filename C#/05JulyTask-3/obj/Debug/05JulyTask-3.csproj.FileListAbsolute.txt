@@ -1,0 +1,7 @@
+D:\.NET\C#\05JulyTask-3\bin\Debug\05JulyTask-3.exe.config
+D:\.NET\C#\05JulyTask-3\bin\Debug\05JulyTask-3.exe
+D:\.NET\C#\05JulyTask-3\bin\Debug\05JulyTask-3.pdb
+D:\.NET\C#\05JulyTask-3\obj\Debug\05JulyTask-3.csproj.AssemblyReference.cache
+D:\.NET\C#\05JulyTask-3\obj\Debug\05JulyTask-3.csproj.CoreCompileInputs.cache
+D:\.NET\C#\05JulyTask-3\obj\Debug\05JulyTask-3.exe
+D:\.NET\C#\05JulyTask-3\obj\Debug\05JulyTask-3.pdb
