@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.NET\\C#\\Prime number\\",
+  "WorkspaceRootPath": "D:\\.NET\\C#\\12JulyTask-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7492FDF-B483-4C55-9A40-D43788EBBB81}|Prime number.csproj|d:\\.net\\c#\\prime number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7492FDF-B483-4C55-9A40-D43788EBBB81}|Prime number.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379ED2ED-0F63-4952-80BA-2BCCF12877B1}|12JulyTask-2.csproj|d:\\.net\\c#\\12julytask-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379ED2ED-0F63-4952-80BA-2BCCF12877B1}|12JulyTask-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET\\C#\\Prime number\\Program.cs",
+              "DocumentMoniker": "D:\\.NET\\C#\\12JulyTask-2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NET\\C#\\Prime number\\Program.cs",
+              "ToolTip": "D:\\.NET\\C#\\12JulyTask-2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAQAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:10:34.938Z",
+              "WhenOpened": "2024-07-13T09:04:30.131Z",
               "EditorCaption": ""
             }
           ]

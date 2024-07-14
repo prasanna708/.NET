@@ -1,0 +1,7 @@
+D:\.NET\C#\12JulyTask-1\bin\Debug\12JulyTask-1.exe.config
+D:\.NET\C#\12JulyTask-1\bin\Debug\12JulyTask-1.exe
+D:\.NET\C#\12JulyTask-1\bin\Debug\12JulyTask-1.pdb
+D:\.NET\C#\12JulyTask-1\obj\Debug\12JulyTask-1.csproj.AssemblyReference.cache
+D:\.NET\C#\12JulyTask-1\obj\Debug\12JulyTask-1.csproj.CoreCompileInputs.cache
+D:\.NET\C#\12JulyTask-1\obj\Debug\12JulyTask-1.exe
+D:\.NET\C#\12JulyTask-1\obj\Debug\12JulyTask-1.pdb
