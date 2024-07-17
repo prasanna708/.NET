@@ -1,0 +1,10 @@
+D:\.NET\C#\Test\bin\Debug\Test.exe.config
+D:\.NET\C#\Test\bin\Debug\Test.exe
+D:\.NET\C#\Test\bin\Debug\Test.pdb
+D:\.NET\C#\Test\bin\Debug\Numbers.dll
+D:\.NET\C#\Test\bin\Debug\Numbers.pdb
+D:\.NET\C#\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\.NET\C#\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\.NET\C#\Test\obj\Debug\Test.csproj.Up2Date
+D:\.NET\C#\Test\obj\Debug\Test.exe
+D:\.NET\C#\Test\obj\Debug\Test.pdb

@@ -1,0 +1,6 @@
+D:\.NET\C#\Numbers\bin\Debug\Numbers.dll
+D:\.NET\C#\Numbers\bin\Debug\Numbers.pdb
+D:\.NET\C#\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+D:\.NET\C#\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+D:\.NET\C#\Numbers\obj\Debug\Numbers.dll
+D:\.NET\C#\Numbers\obj\Debug\Numbers.pdb
