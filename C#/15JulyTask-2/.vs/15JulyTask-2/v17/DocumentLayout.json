@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5E806EB2-A8C1-4722-8350-40B6C422E96A}|15JulyTask-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E806EB2-A8C1-4722-8350-40B6C422E96A}|15JulyTask-2.csproj|d:\\.net\\c#\\15julytask-2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E806EB2-A8C1-4722-8350-40B6C422E96A}|15JulyTask-2.csproj|D:\\.NET\\C#\\15JulyTask-2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E806EB2-A8C1-4722-8350-40B6C422E96A}|15JulyTask-2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\.NET\\C#\\15JulyTask-2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAWwH0AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T09:29:02.838Z",
               "EditorCaption": ""

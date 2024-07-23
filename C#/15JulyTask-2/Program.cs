@@ -123,7 +123,21 @@ namespace _15JulyTask_2
         //4. Update Product
         static void UpdateProduct()
         {
-            
+            int updateId;
+            Console.WriteLine("Enter Product ID to update: ");
+            updateId = Convert.ToInt32(Console.ReadLine());
+            Product updateProduct = products.Find(p=>p.Id == updateId);
+            if (updateProduct != null)
+            {
+                Console.Write("Enter new Name: ");
+                updateProduct.Name = Console.ReadLine();
+                Console.Write("Enter new Price: ");
+                updateProduct.Price = Convert.ToDouble(Console.ReadLine());
+            }
+            else
+            {
+                Console.WriteLine("Product not found.....");
+            }
         }
 
         //5. Delete a product

@@ -1,0 +1,7 @@
+D:\.NET\C#\CRUDOperations\bin\Debug\CRUDOperations.exe.config
+D:\.NET\C#\CRUDOperations\bin\Debug\CRUDOperations.exe
+D:\.NET\C#\CRUDOperations\bin\Debug\CRUDOperations.pdb
+D:\.NET\C#\CRUDOperations\obj\Debug\CRUDOperations.csproj.AssemblyReference.cache
+D:\.NET\C#\CRUDOperations\obj\Debug\CRUDOperations.csproj.CoreCompileInputs.cache
+D:\.NET\C#\CRUDOperations\obj\Debug\CRUDOperations.exe
+D:\.NET\C#\CRUDOperations\obj\Debug\CRUDOperations.pdb
