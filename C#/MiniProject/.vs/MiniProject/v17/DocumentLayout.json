@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{02DBF4D8-FDA3-4E4E-ABD4-F8DA27700F42}|MiniProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02DBF4D8-FDA3-4E4E-ABD4-F8DA27700F42}|MiniProject.csproj|d:\\.net\\c#\\miniproject\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02DBF4D8-FDA3-4E4E-ABD4-F8DA27700F42}|MiniProject.csproj|D:\\.NET\\C#\\MiniProject\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02DBF4D8-FDA3-4E4E-ABD4-F8DA27700F42}|MiniProject.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Items.cs",
               "ToolTip": "D:\\.NET\\C#\\MiniProject\\Items.cs",
               "RelativeToolTip": "Items.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T09:30:08.081Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\.NET\\C#\\MiniProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAALYAAAAAAAAAAAAswKIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T09:24:52.356Z",
               "EditorCaption": ""
