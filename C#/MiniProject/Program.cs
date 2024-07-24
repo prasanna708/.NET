@@ -16,13 +16,17 @@ namespace MiniProject
             int ch;
             while(true)
             {
-                Console.WriteLine("1.Display Soups ");
-                Console.WriteLine("2.Display Starters ");
-                Console.WriteLine("3.Display Main Course");
-                Console.WriteLine("4.Display Desserts");
+                Console.WriteLine("Items:");
+                Console.WriteLine("======");
+                Console.WriteLine("1.Soups ");
+                Console.WriteLine("2.Starters ");
+                Console.WriteLine("3.Main Course");
+                Console.WriteLine("4.Desserts");
+                Console.WriteLine("Cart:");
+                Console.WriteLine("=====");
                 Console.WriteLine("5.Display Cart");
                 Console.WriteLine("6.Exit");
-                Console.Write("Enter your choice: ");
+                Console.Write("\n" + "Enter your choice: ");
                 ch = Convert.ToInt32(Console.ReadLine());
                 switch (ch)
                 {
@@ -47,6 +51,7 @@ namespace MiniProject
                 new Soup{Id = 103, Name = "Chicken Soup", Price = 180},
                 new Soup{Id = 104, Name = "Mutton Soup", Price = 200},
             };
+            Console.WriteLine();
             Console.WriteLine("SoupID" + "\t" + "Soup Name" + "\t" + "Price" );
             Console.WriteLine("======" + "\t" + "=========" + "\t" + "=====");
             foreach (Soup s in soups)
@@ -54,6 +59,7 @@ namespace MiniProject
                 Console.WriteLine(s.Id + "\t" + s.Name + "\t" + s.Price);
             }
             //Adding to Cart
+            Console.WriteLine();
             Console.Write("Enter Soup ID to select: ");
             int SoupID = Convert.ToInt32(Console.ReadLine());
             if(SoupID != 0)
@@ -83,7 +89,7 @@ namespace MiniProject
                 new Starter{Id = 205, Name = "Grill Chicken", Price = 340},
                 new Starter{Id = 206, Name = "Meat Balls", Price = 280},
             };
-
+            Console.WriteLine();
             Console.WriteLine("StarterID" + "\t" + "Starter Name" + "\t\t" + "Price");
             Console.WriteLine("=========" + "\t" + "============" + "\t\t" + "=====");
             foreach (Starter st in starters)
@@ -91,6 +97,7 @@ namespace MiniProject
                 Console.WriteLine(st.Id + "\t\t" + st.Name + "\t\t" + st.Price);
             }
             //adding to cart
+            Console.WriteLine();
             Console.Write("Enter Starter ID to select: ");
             int starterId = Convert.ToInt32(Console.ReadLine());
             if (starterId != 0)
@@ -120,6 +127,7 @@ namespace MiniProject
                 new MainCourse{Id = 305, Name = "Veg Meals", Price = 120 },
                 new MainCourse{Id = 306, Name = "Non-Veg Meals", Price = 200 },
             };
+            Console.WriteLine();
             Console.WriteLine("MainCourseID" + "\t" + "MainCourse Name" + "\t\t" + "Price");
             Console.WriteLine("============" + "\t" + "===============" + "\t\t" + "=====");
             foreach (MainCourse MC in mc)
@@ -127,6 +135,7 @@ namespace MiniProject
                 Console.WriteLine(MC.Id + "\t\t" + MC.Name + "\t\t" + MC.Price);
             }
             //Adding to cart
+            Console.WriteLine();
             Console.Write("Enter MainCourse ID to select: ");
             int MainID = Convert.ToInt32(Console.ReadLine());
             if (MainID != 0)
@@ -153,6 +162,7 @@ namespace MiniProject
                 new Dessert{Id = 403, Name = "IceCreams", Price = 150},
                 new Dessert{Id = 404, Name = "GulabJamun", Price = 100},
             };
+            Console.WriteLine();
             Console.WriteLine("DessertID" + "\t" + "Dessert Name" + "\t\t" + "Price");
             Console.WriteLine("=========" + "\t" + "============" + "\t\t" + "=====");
             foreach (Dessert des in desserts)
@@ -160,6 +170,7 @@ namespace MiniProject
                 Console.WriteLine(des.Id + "\t\t" + des.Name + "\t\t" + des.Price);
             }
             //Adding to cart
+            Console.WriteLine();
             Console.Write("Enter Dessert ID to select: ");
             int dessertId = Convert.ToInt32(Console.ReadLine());
             if ( dessertId != 0)
@@ -180,7 +191,7 @@ namespace MiniProject
         //Cart
         public static void DisplayCart()
         {
-           
+            Console.WriteLine();
             Console.WriteLine("Items in Cart:");
             Console.WriteLine("ItemID" + "\t\t" + "Item Name" + "\t\t" + "Price");
             Console.WriteLine("======" + "\t\t" + "=========" + "\t\t" + "=====");
